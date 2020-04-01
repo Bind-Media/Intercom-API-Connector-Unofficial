@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://www.bind.media"
-documentation: "https://www.bind.media/analytics/intercom-tracking-with-google-tag-manager"
+documentation: "https://bind.media/intercom-tag-template-documentation/"
 versions:
   - sha: 1729ca7d8718ed90a4233b87ad737fa7fa7aea41
     changeNotes: Initial Release Version
