@@ -15,5 +15,5 @@
 homepage: "https://www.bind.media"
 documentation: "https://bind.media/intercom-tag-template-documentation/"
 versions:
-  - sha: 1729ca7d8718ed90a4233b87ad737fa7fa7aea41
-    changeNotes: Initial Release Version
+  - sha: a59a63d1b8c07ce70dc849ea6ce40b536579437a
+    changeNotes: Initial Public Release Version
